@@ -1,0 +1,18 @@
+.imagentablacart{
+    width: 80px;
+    height: 80px;
+    align-items: center;
+}
+.containertablacarrito{
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgb(209, 213, 219) 0px 0px 0px 1px inset;
+    margin: 20px;
+    padding: 20px;
+}
+.tablacarrito{
+    padding: 20px;
+}
+.divbotonfinalizarcompra{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
